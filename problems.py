@@ -141,9 +141,9 @@ Pattern:
 
 Pattern #15: Mirrored Pyramid (Right-angled Triangle) Pattern of Numbers
 Pattern:
-           1 
-         1 2 
-      1 2 3 
+         1 
+       1 2 
+     1 2 3 
    1 2 3 4 
  1 2 3 4 5
  
